@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="stylesheet" href="/theopathic.css" media="screen" type="text/css">
   </head>
   <body>
     <h1>Blogs</h1>
