@@ -1,5 +1,6 @@
 header {
   background: #2e7bcf url(https://theopathic.github.io/images/sky.jpg) 0 0;
+  background-size: cover;
 }
 body {
   font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial,
