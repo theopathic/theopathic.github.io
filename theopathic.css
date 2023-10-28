@@ -1,0 +1,8 @@
+header {
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+}
+body {
+  font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial,
+        serif;
+  font-size: 15px;
+}
