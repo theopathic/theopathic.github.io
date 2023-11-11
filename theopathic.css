@@ -7,3 +7,52 @@ body {
         serif;
   font-size: 15px;
 }
+
+/* Modified from https://alvarotrigo.com/blog/css-highlight-text/ */
+
+:root {
+/*  --color: #414141;
+  --underline: #e6a0fa;
+*/
+  --color: #2879d0;
+  --underline: #474747;
+}
+
+/*
+body {
+  font-size: 16px;
+  font-family: Arial;
+  padding-top: 50px;
+}
+*/
+
+div {
+  width: 115px; 
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+}   
+
+a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: var(--color);
+  transition: all 200ms ease-out;
+}   
+    
+a:hover {
+  font-size: 1.6rem;
+}   
+
+a:hover ~ hr {
+  width: 100%;
+}   
+    
+hr {
+  width: 0px;
+  height: 3px;
+  background: var(--underline);
+  border: var(--underline);
+  margin: 0px;
+  transition: width 450ms ease-out;
+}
