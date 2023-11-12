@@ -8,7 +8,7 @@ body {
   font-size: 15px;
 }
 
-p.h2 {
+a.h2 {
   margin-bottom: 8px;
   font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial,
     serif;
@@ -17,7 +17,7 @@ p.h2 {
   color: #474747;
   text-indent: 4px;
 }
-p.h2::before {
+a.h2::before {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
