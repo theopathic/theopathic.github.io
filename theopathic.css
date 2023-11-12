@@ -13,8 +13,9 @@ body {
 :root {
 /*  --color: #414141;
   --underline: #e6a0fa;
-*/
   --color: #2879d0;
+*/
+  --color: #0000d0;
   --underline: #474747;
 }
 
@@ -27,7 +28,7 @@ body {
 */
 
 div {
-  width: 115px; 
+  width: 200px; 
   margin: 0px auto;
   display: flex;
   flex-direction: column;
