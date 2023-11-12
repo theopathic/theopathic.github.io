@@ -18,7 +18,7 @@ p.h2 {
     color: #9ddcff; 
     letter-spacing: 0;
 } 
-p.h2:before {
+p.h2::before {
     padding-right: 0.3em;
     margin-left: -1.5em;
     content: "//";
