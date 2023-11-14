@@ -44,7 +44,7 @@ body {
 */
 
 div {
-  width: 200px; 
+  width: 150px; 
   margin: 0px auto;
   display: flex;
   flex-direction: column;
