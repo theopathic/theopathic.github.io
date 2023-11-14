@@ -43,8 +43,8 @@ body {
 }
 */
 
-div.h2 {
-  width: 150px; 
+span.h2 {
+  width: 100px; 
   margin: 0px auto;
   display: flex;
   flex-direction: column;
