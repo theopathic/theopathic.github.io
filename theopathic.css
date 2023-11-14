@@ -43,7 +43,7 @@ body {
 }
 */
 
-div {
+div.h2 {
   width: 150px; 
   margin: 0px auto;
   display: flex;
@@ -65,7 +65,7 @@ a:hover ~ hr {
   width: 100%;
 }   
     
-hr {
+hr.h2 {
   width: 0px;
   height: 3px;
   background: var(--underline);
