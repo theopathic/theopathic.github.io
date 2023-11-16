@@ -70,6 +70,6 @@ hr.h2 {
   height: 3px;
   background: var(--underline);
   border: var(--underline);
-  margin: 0px;
+  margin: 0px auto;
   transition: width 450ms ease-out;
 }
